@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-08T00:47:20</date>
+  <millis>1538977640377</millis>
+  <sequence>0</sequence>
+  <logger>d2d</logger>
+  <level>INFO</level>
+  <class>barnestr.Dot2DotController</class>
+  <method>load</method>
+  <thread>14</thread>
+  <message>File successfully loaded</message>
+</record>
+<record>
+  <date>2018-10-08T00:47:48</date>
+  <millis>1538977668878</millis>
+  <sequence>1</sequence>
+  <logger>d2d</logger>
+  <level>INFO</level>
+  <class>barnestr.Dot2DotController</class>
+  <method>changeDotAmount</method>
+  <thread>14</thread>
+  <message>Run Time for selected operation00:00:00.341</message>
+</record>
+<record>
+  <date>2018-10-08T00:48:31</date>
+  <millis>1538977711661</millis>
+  <sequence>2</sequence>
+  <logger>d2d</logger>
+  <level>INFO</level>
+  <class>barnestr.Dot2DotController</class>
+  <method>changeDotAmount</method>
+  <thread>14</thread>
+  <message>Run Time for selected operation00:00:01.1006</message>
+</record>
+<record>
+  <date>2018-10-08T00:48:37</date>
+  <millis>1538977717041</millis>
+  <sequence>3</sequence>
+  <logger>d2d</logger>
+  <level>INFO</level>
+  <class>barnestr.Dot2DotController</class>
+  <method>changeDotAmount</method>
+  <thread>14</thread>
+  <message>Run Time for selected operation00:00:01.1120</message>
+</record>
+<record>
+  <date>2018-10-08T00:48:43</date>
+  <millis>1538977723693</millis>
+  <sequence>4</sequence>
+  <logger>d2d</logger>
+  <level>INFO</level>
+  <class>barnestr.Dot2DotController</class>
+  <method>changeDotAmount</method>
+  <thread>14</thread>
+  <message>Run Time for selected operation00:00:00.962</message>
+</record>
+<record>
+  <date>2018-10-08T00:48:53</date>
+  <millis>1538977733827</millis>
+  <sequence>5</sequence>
+  <logger>d2d</logger>
+  <level>INFO</level>
+  <class>barnestr.Dot2DotController</class>
+  <method>load</method>
+  <thread>14</thread>
+  <message>No file was selected to be opened</message>
+</record>
+<record>
+  <date>2018-10-08T00:48:53</date>
+  <millis>1538977733827</millis>
+  <sequence>6</sequence>
+  <logger>d2d</logger>
+  <level>INFO</level>
+  <class>barnestr.Dot2DotController</class>
+  <method>load</method>
+  <thread>14</thread>
+  <message>File successfully loaded</message>
+</record>
+<record>
+  <date>2018-10-08T00:49:38</date>
+  <millis>1538977778209</millis>
+  <sequence>7</sequence>
+  <logger>d2d</logger>
+  <level>INFO</level>
+  <class>barnestr.Dot2DotController</class>
+  <method>changeDotAmount</method>
+  <thread>14</thread>
+  <message>Run Time for selected operation00:00:00.0</message>
+</record>
+<record>
+  <date>2018-10-08T00:49:41</date>
+  <millis>1538977781035</millis>
+  <sequence>8</sequence>
+  <logger>d2d</logger>
+  <level>INFO</level>
+  <class>barnestr.Dot2DotController</class>
+  <method>changeDotAmount</method>
+  <thread>14</thread>
+  <message>Run Time for selected operation00:00:00.0</message>
+</record>
+<record>
+  <date>2018-10-08T00:49:44</date>
+  <millis>1538977784416</millis>
+  <sequence>9</sequence>
+  <logger>d2d</logger>
+  <level>INFO</level>
+  <class>barnestr.Dot2DotController</class>
+  <method>changeDotAmount</method>
+  <thread>14</thread>
+  <message>Run Time for selected operation00:00:00.0</message>
+</record>
+<record>
+  <date>2018-10-08T00:49:45</date>
+  <millis>1538977785001</millis>
+  <sequence>10</sequence>
+  <logger>d2d</logger>
+  <level>INFO</level>
+  <class>barnestr.Dot2DotController</class>
+  <method>changeDotAmount</method>
+  <thread>14</thread>
+  <message>Run Time for selected operation00:00:00.0</message>
+</record>
+<record>
+  <date>2018-10-08T00:49:49</date>
+  <millis>1538977789519</millis>
+  <sequence>11</sequence>
+  <logger>d2d</logger>
+  <level>INFO</level>
+  <class>barnestr.Dot2DotController</class>
+  <method>load</method>
+  <thread>14</thread>
+  <message>File successfully loaded</message>
+</record>
+<record>
+  <date>2018-10-08T00:49:52</date>
+  <millis>1538977792318</millis>
+  <sequence>12</sequence>
+  <logger>d2d</logger>
+  <level>INFO</level>
+  <class>barnestr.Dot2DotController</class>
+  <method>changeDotAmount</method>
+  <thread>14</thread>
+  <message>Run Time for selected operation00:00:00.193</message>
+</record>
+<record>
+  <date>2018-10-08T00:49:59</date>
+  <millis>1538977799871</millis>
+  <sequence>13</sequence>
+  <logger>d2d</logger>
+  <level>INFO</level>
+  <class>barnestr.Dot2DotController</class>
+  <method>changeDotAmount</method>
+  <thread>14</thread>
+  <message>Run Time for selected operation00:00:00.52</message>
+</record>
+<record>
+  <date>2018-10-08T00:50:03</date>
+  <millis>1538977803952</millis>
+  <sequence>14</sequence>
+  <logger>d2d</logger>
+  <level>INFO</level>
+  <class>barnestr.Dot2DotController</class>
+  <method>changeDotAmount</method>
+  <thread>14</thread>
+  <message>Run Time for selected operation00:00:00.61</message>
+</record>
+<record>
+  <date>2018-10-08T00:50:07</date>
+  <millis>1538977807155</millis>
+  <sequence>15</sequence>
+  <logger>d2d</logger>
+  <level>INFO</level>
+  <class>barnestr.Dot2DotController</class>
+  <method>changeDotAmount</method>
+  <thread>14</thread>
+  <message>Run Time for selected operation00:00:00.0</message>
+</record>
+<record>
+  <date>2018-10-08T00:50:11</date>
+  <millis>1538977811905</millis>
+  <sequence>16</sequence>
+  <logger>d2d</logger>
+  <level>INFO</level>
+  <class>barnestr.Dot2DotController</class>
+  <method>changeDotAmount</method>
+  <thread>14</thread>
+  <message>Run Time for selected operation00:00:00.0</message>
+</record>
+<record>
+  <date>2018-10-08T00:50:15</date>
+  <millis>1538977815642</millis>
+  <sequence>17</sequence>
+  <logger>d2d</logger>
+  <level>INFO</level>
+  <class>barnestr.Dot2DotController</class>
+  <method>changeDotAmount</method>
+  <thread>14</thread>
+  <message>Run Time for selected operation00:00:00.0</message>
+</record>
+<record>
+  <date>2018-10-08T00:50:16</date>
+  <millis>1538977816457</millis>
+  <sequence>18</sequence>
+  <logger>d2d</logger>
+  <level>INFO</level>
+  <class>barnestr.Dot2DotController</class>
+  <method>changeDotAmount</method>
+  <thread>14</thread>
+  <message>Run Time for selected operation00:00:00.0</message>
+</record>
+</log>

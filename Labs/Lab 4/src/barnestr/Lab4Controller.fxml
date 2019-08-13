@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.RadioMenuItem?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.ToggleGroup?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="360.0" prefWidth="360.0" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="barnestr.Lab4Controller">
+   <children>
+      <MenuBar>
+        <menus>
+          <Menu mnemonicParsing="false" text="File">
+            <items>
+              <MenuItem mnemonicParsing="false" text="Close" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Strategy">
+            <items>
+                  <RadioMenuItem fx:id="radioArrayListIndex" mnemonicParsing="false" selected="true" text="ArrayList Index">
+                     <toggleGroup>
+                        <ToggleGroup fx:id="strategy" />
+                     </toggleGroup>
+                  </RadioMenuItem>
+                  <RadioMenuItem fx:id="radioLinkedListIndex" mnemonicParsing="false" text="LinkedList Index" toggleGroup="$strategy" />
+                  <RadioMenuItem fx:id="radioArrayListFor" mnemonicParsing="false" text="ArrayList For-Each" toggleGroup="$strategy" />
+                  <RadioMenuItem fx:id="radioLinkedListFor" mnemonicParsing="false" text="LinkedList For-Each" toggleGroup="$strategy" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+      <VBox prefHeight="330.0" prefWidth="340.0">
+         <children>
+            <Label text="Search:" />
+            <TextField fx:id="textSearch" prefWidth="300.0">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </TextField>
+            <Label text="Matches:">
+               <padding>
+                  <Insets top="5.0" />
+               </padding>
+            </Label>
+            <TextArea fx:id="textMatches" prefHeight="230.0" prefWidth="340.0">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </TextArea>
+            <BorderPane prefHeight="25.0" prefWidth="340.0">
+               <left>
+                  <Label fx:id="labelTime" text="Time Required:" BorderPane.alignment="CENTER" />
+               </left>
+               <right>
+                  <Label fx:id="labelMatches" text="Matches found:" textAlignment="CENTER" BorderPane.alignment="CENTER" />
+               </right>
+            </BorderPane>
+         </children>
+         <VBox.margin>
+            <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+         </VBox.margin>
+      </VBox>
+   </children>
+</VBox>
